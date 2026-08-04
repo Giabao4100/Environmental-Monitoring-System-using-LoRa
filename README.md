@@ -1,4 +1,4 @@
-<img width="761" height="596" alt="Screenshot 2026-08-04 095045" src="https://github.com/user-attachments/assets/0e0ca0cc-052f-4e10-81f2-46cd1893b6c7" /># 🌱 Environmental Monitoring System using LoRa
+# 🌱 Environmental Monitoring System using LoRa
 
 ## 📖 System Description
 
