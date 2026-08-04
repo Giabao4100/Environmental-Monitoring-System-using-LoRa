@@ -1,4 +1,4 @@
-# 🌱 Environmental Monitoring System using LoRa
+<img width="761" height="596" alt="Screenshot 2026-08-04 095045" src="https://github.com/user-attachments/assets/0e0ca0cc-052f-4e10-81f2-46cd1893b6c7" /># 🌱 Environmental Monitoring System using LoRa
 
 ## 📖 System Description
 
@@ -25,3 +25,26 @@ Designed for **long-range communication**, **low power consumption**, and **easy
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6f7ab44-92f5-4de0-95ce-f23b2e2a9218" width="750">
 </p>
+
+## 📡 Hardware at Gateway
+<p align="center">
+<img width="761" height="596" alt="Screenshot 2026-08-04 095045" src="https://github.com/user-attachments/assets/ee12f8e8-d7f6-42ee-aa79-46093d77c03c" />
+</p>
+
+## 📡 Hardware at Node
+<p align="center">
+<img width="544" height="569" alt="Screenshot 2026-08-04 095055" src="https://github.com/user-attachments/assets/1796a514-0701-4360-9b69-c7521c0da95c" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
